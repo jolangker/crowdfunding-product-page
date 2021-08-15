@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: "Commissioner", sans-serif;
+  position: relative;
+  /* overflow: hidden; */
+}
+
+header {
+  background: url(../images/image-hero-mobile.jpg);
+}
+
+.bookmarked-circle {
+  fill: #065f46;
+}
+
+.bookmarked-logo {
+  fill: white;
+}
+
+.bookmark:hover p {
+  color: gray;
+}
+
+.modal-body::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  header {
+    background: url(../images/image-hero-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bookmark:hover .bookmark-logo circle {
+    fill: gray;
+  }
+}
