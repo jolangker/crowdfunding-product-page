@@ -15,8 +15,6 @@ This is a solution to the [Crowdfunding product page challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -43,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL : [Here](https://www.frontendmentor.io/solutions/crowdfunding-product-page-tailwind-css-and-vanilla-javascript-UfGTXPjMg)
-- Live Site URL : [Here](https://jolangker.netlify.app/projects/crowdfunding-product-page/index.html)
+- Live Site URL : [Here](https://jol-crowdfunding-product-page.netlify.app/)
 
 ## My process
 
